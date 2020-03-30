@@ -1,0 +1,63 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+.page-area {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.svg-container {
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+object {
+    background: #759AB8;
+}
+.svg-container>.text {
+    position: absolute;
+    top: 215px;
+    left: 80px;
+    width: 350px;
+    font-size: 1.4rem;
+    color: #7A7360;
+    opacity: 0.9;
+    font-family: 'Roboto', sans-serif;
+}
+.speaker-name {
+    position: absolute;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1.2rem;
+    color: #441B06;
+    background: #CB8445;
+    width: 135px;
+    height: 35px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 170px;
+    left: 40px;
+
+    transform-origin: center;
+    animation: float;
+    animation-delay: 0s;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes float {
+  0% {
+      transform: rotate(-5deg) translateY(0px);
+  }
+  50% {
+      transform: rotate(-5deg) translateY(2px);
+  }
+  100% {
+      transform: rotate(-5deg) translateY(0px);
+  }
+}
