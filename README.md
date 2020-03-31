@@ -4,7 +4,11 @@ Recreation of a text bubble and effects from `Animal Crossing: New Horizons`
 
 # Live Demo
 
-[View Live Demo](https://regularmemory.blog/AnimalCrossingTextBubble/): Use up/down arrow keys to operate the fake menu
+[View Live Demo](https://regularmemory.blog/AnimalCrossingTextBubble/)
+
+# Controls
+
+Up and down `arrow keys` operate the menu
 
 # Reference Image and Screenshot
 
