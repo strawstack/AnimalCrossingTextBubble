@@ -8,7 +8,7 @@ Recreation of a text bubble and effects from `Animal Crossing: New Horizons`
 
 # Controls
 
-Up and down `arrow keys` operate the menu
+`Up` and `down` arrow keys operate the menu
 
 # Reference Image and Screenshot
 
