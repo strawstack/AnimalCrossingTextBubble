@@ -4,14 +4,26 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="choice-style.css">
+    <link rel="stylesheet" type="text/css" href="pointer-style.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:900|Varela+Round&display=swap" rel="stylesheet">
+    <script src="main.js"></script>
 </head>
 <body>
     <div class="page-area">
         <div class="svg-container">
             <object type="image/svg+xml" data="bubble.svg"></object>
+            <object class="choice-bubble" type="image/svg+xml" data="choiceBubble.svg"></object>
+            <object class="pointer-hand" type="image/svg+xml" data="pointer.svg"></object>
             <div class="text">What would you like to talk to me about? I'm all ears!</div>
             <div class="speaker-name">Tom Nook</div>
+
+            <div class="choice-area">
+                <div class="highlight"></div>
+                <div class="choice-text shimmer-ready">What should I do?</div>
+                <div class="choice-text shimmer-ready">About my moving fees...</div>
+                <div class="choice-text shimmer-ready">I'm good.</div>
+            </div>
         </div>
     </div>
 </body>

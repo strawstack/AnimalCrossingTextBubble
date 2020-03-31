@@ -1,0 +1,25 @@
+.pointer-hand {
+    position: absolute;
+    top: 130px;
+    right: 165px;
+    width: 40px;
+}
+.hand {
+    animation: handpoint;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+/* Animation Keyframes */
+@keyframes handpoint {
+  0% {
+      transform: translateX(0px);
+  }
+  50% {
+      transform: translateX(30px);
+  }
+  100% {
+      transform: translateX(0px);
+  }
+}

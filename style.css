@@ -13,8 +13,6 @@ html, body {
     width: 500px;
     height: 500px;
     position: relative;
-}
-object {
     background: #759AB8;
 }
 .svg-container>.text {
@@ -50,6 +48,37 @@ object {
     animation-iteration-count: infinite;
 }
 
+/* Choices */
+.choice-area {
+    position: absolute;
+    top: 135px;
+    left: 340px;
+}
+.choice-text {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 0.8rem;
+    color: #7A7360;
+    opacity: 0.95;
+    margin-bottom: 5px;
+}
+.highlight {
+    position: absolute;
+    width: 100px;
+    height: 12px;
+    left: -5px;
+    background: #F2D449;
+    border-radius: 6px;
+}
+
+/* Text effect */
+.shimmer {
+    transform-origin: center;
+    animation: squish;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+}
+
 @keyframes float {
   0% {
       transform: rotate(-5deg) translateY(0px);
@@ -59,5 +88,20 @@ object {
   }
   100% {
       transform: rotate(-5deg) translateY(0px);
+  }
+}
+
+@keyframes squish {
+  0% {
+      font-size: 0.8rem;
+  }
+  25% {
+      font-size: 0.7rem;
+  }
+  50% {
+      font-size: 0.9rem;
+  }
+  100% {
+      font-size: 0.8rem;
   }
 }
