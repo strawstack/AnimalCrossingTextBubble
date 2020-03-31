@@ -4,7 +4,7 @@ Recreation of a text bubble and effects from `Animal Crossing: New Horizons`
 
 # Live Demo
 
-[View Live Demo](#): Use up/down arrow keys to operate the fake menu
+[View Live Demo](https://regularmemory.blog/AnimalCrossingTextBubble/): Use up/down arrow keys to operate the fake menu
 
 # Reference Image and Screenshot
 
@@ -14,7 +14,7 @@ This screenshot was used as a reference image during design
 
 This is a screenshot of my final product
 
-![](./screenshot2.png)
+[![](./screenshot2.png)](https://regularmemory.blog/AnimalCrossingTextBubble/)
 
 # Reference Video
 
@@ -22,4 +22,4 @@ This is a screenshot of my final product
 
 # Demo GIF
 
-![](./demo.gif)
+[![](./demo.gif)](https://regularmemory.blog/AnimalCrossingTextBubble/)
