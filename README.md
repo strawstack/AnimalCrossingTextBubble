@@ -8,17 +8,17 @@ Recreation of a text bubble and effects from `Animal Crossing: New Horizons`
 
 # Reference Image and Screenshot
 
-This screenshot was used as a reference image during design.
+This screenshot was used as a reference image during design
 
 ![](./referenceImage.png)
 
 This is a screenshot of my final product
 
-![](./screenshot.png)
+![](./screenshot2.png)
 
 # Reference Video
 
-[This video](https://www.youtube.com/watch?v=hsFv5rrKGYQ&feature=youtu.be&t=439) was used as a reference for the animations.
+[This video](https://www.youtube.com/watch?v=hsFv5rrKGYQ&feature=youtu.be&t=439) was used as a reference for animation
 
 # Demo GIF
 
