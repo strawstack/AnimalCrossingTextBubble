@@ -4,7 +4,7 @@ Recreation of a text bubble and effects from `Animal Crossing: New Horizons`
 
 # Live Demo
 
-[View Live Demo](https://regularmemory.blog/AnimalCrossingTextBubble/)
+[View Live Demo](https://strawstack.github.io/AnimalCrossingTextBubble/)
 
 # Controls
 
@@ -18,7 +18,7 @@ This screenshot was used as a reference image during design
 
 This is a screenshot of my final product
 
-[![](./screenshot2.png)](https://regularmemory.blog/AnimalCrossingTextBubble/)
+[![](./screenshot2.png)](https://strawstack.github.io/AnimalCrossingTextBubble/)
 
 # Reference Video
 
@@ -26,4 +26,4 @@ This is a screenshot of my final product
 
 # Demo GIF
 
-[![](./demo.gif)](https://regularmemory.blog/AnimalCrossingTextBubble/)
+[![](./demo.gif)](https://strawstack.github.io/AnimalCrossingTextBubble/)
